@@ -1,0 +1,120 @@
+.success {
+    box-shadow: none !important;
+}
+label {
+    color: #008fb3;
+}
+.form-group {
+    height: 50px !important;
+}
+#errormessage1{
+    color:#ff9999;
+    text-indent: 40px; 
+}
+#errormessage2{
+    color:#ff9999;
+    text-indent: 40px; 
+}
+#errormessage3{
+    color:#ff9999;
+    text-indent: 40px; 
+}
+#errormessage6{
+    color:#ff9999;
+    text-indent: 135px; 
+}
+#errormessage9{
+    color:#ff9999;
+    text-indent: 40px; 
+}
+#errormessage10{
+    color:#ff9999;
+    text-indent: 40px; 
+}
+#errormessage11{
+    color:#ff9999;
+    text-indent: 100px; 
+}
+
+.error{
+	font-size: 20px;
+	text-align: center;
+	color:#ff9999;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.sample input{
+	height: auto !important;
+}
+h3{
+	color:grey;
+	text-decoration: underline;
+}
+.login-form{
+	margin-top:150px;
+	margin-bottom:150px;
+	margin-right:150px;
+	margin-left:350px;
+	border:3px solid #a1a1a1;
+	padding:25px 10px 10px 10px ; 
+	background:silver;
+	width:40%;
+	border-radius:20px;
+	box-shadow: 7px 7px 6px;
+}
+.glyphicon-plus-sign{
+	font-size: 35px !important;
+}
+.alert-danger{
+	text-align: center !important;
+}
+.glyphicon-user{
+	font-size: 15px !important;
+}
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
+#wrapper{
+	padding-top:50px;
+}
+span.add-top{
+	top: -11px !important;
+	position: relative;
+	left:5px;
+	line-height: 25px;
+}
+span.add-top1{
+	top: -11px !important;
+	position: relative;
+	right:10px;
+	line-height: 25px;
+	color: grey;
+}
+span.create-top{
+	top: -11px !important;
+	position: relative;
+	left:5px;
+	padding-right:20px;
+	line-height: 25px;
+}
+span.user-top{
+	top: -2px !important;
+	position: relative;
+	line-height: 25px;
+	color: grey !important;
+    padding: 5px;	
+}
+span.upadate-users{
+	color:grey;
+}
+span.team-name{
+	color: orange;
+	font-size: 20px;
+}
